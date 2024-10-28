@@ -1,72 +1,70 @@
-<h2 align="left">Hi there, I'm Arvind Kumar 👋<br>Welcome to my GitHub profile! I’m a Software Engineer with a passion for developing efficient and user-friendly software solutions. With a solid foundation in Java, Python, JavaScript, and experience across various development tools and frameworks, I am dedicated to creating innovative projects that deliver real-world impact.</h2>
+# Hello, I'm Arvind Kumar 👋
 
-###
+Welcome to my GitHub profile! I’m a **Software Engineer** with a strong background in building and optimizing complex software solutions. Currently pursuing my **MS in Computer Science** at the **University of Florence**, I’m passionate about leveraging technology to solve real-world problems. I have hands-on experience in a variety of technologies and frameworks, with particular interests in **software development, data science, artificial intelligence,** and **natural language processing (NLP)**.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arvind088&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arvind088&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+In my previous role as a Software Engineer at **Sibisoft (Pvt.) Ltd**, I contributed to the development of Northstar Club Management Software, where I implemented new features, resolved production bugs, and optimized software performance. I enjoy collaborating with teams to create efficient, high-quality software and am always eager to learn new tools and technologies.
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="30" alt="gitlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="30" alt="jquery logo"  />
-</div>
+### 🧑‍💻 Professional Experience
+- **Software Engineer** at **Sibisoft (Pvt.) Ltd** (Dec 2021 - Oct 2022)
+  - Developed and maintained the **Northstar Club Management Software** using **PrimeFaces, JSF,** and **Struct MVC**.
+  - Implemented performance enhancements that significantly improved software responsiveness and optimized user experience.
+  - Leveraged **GitLab** for version control, collaborating effectively with cross-functional teams using **JIRA** for task management.
 
-###
+---
 
-<div align="left">
-  <a href="arvind.maju17@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="www.linkedin.com/in/arvind-kumar-407b93115" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
-</div>
+### 🎓 Education
+- 📚 Pursuing a **Master’s degree in Computer Science** at the **University of Florence, Italy** (Expected completion: March 2024)
+- 🎓 Completed a **Bachelor’s degree in Computer Science** at **Mohammad Ali Jinnah University, Karachi**
 
-###
+---
 
-<br clear="both">
+### 💻 Technical Skills
+- **Languages:** Java, Python, JavaScript, SQL, HTML, CSS
+- **Frameworks & Libraries:** JSF, PrimeFaces, Flask
+- **Tools & Technologies:** Docker, AWS, GitLab, Tomcat, JIRA, SonarQube
+- **Development Methodologies:** Agile, Scrum
 
-<img src="https://raw.githubusercontent.com/arvind088/arvind088/output/snake.svg" alt="Snake animation" />
+---
 
-###
+### 🌟 Projects & Contributions
+- **[Deep Learning-based Human Pose Estimation](https://github.com/arvind088/human-pose-estimation)**  
+   Developed a system using Python libraries like **OpenCV** and **TensorFlow** to estimate human poses, achieving an 87% accuracy on the MPII benchmark dataset.
+- **[House Price Prediction App](https://github.com/arvind088/house-price-prediction)**  
+   Created a web app to predict house prices based on user inputs, using **Flask**, **Python**, and **JavaScript**.
+- **[Easy Store Inventory Management System](https://github.com/arvind088/easy-store-inventory)**  
+   Built a Java-based desktop application to manage inventory and sales for a supermarket chain, with features for generating invoices and monthly sales reports.
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/arvind088/count.svg?"  />
-</div>
+---
 
-###
+### 🏆 Achievements & Certifications
+- **AWS Certified Solutions Architect - Associate**  
+  [View Certificate](https://www.credly.com/badges/24c82282-4a1a-4628-9172-4df522d7eca4/public_url)
+- **Scrum Foundation Professional Certificate**
+- **Campus Director for Hult Prize (2020-2021)**  
+  Led the Hult Prize initiative at MAJU, fostering entrepreneurship and social innovation on campus.
 
-<p align="left">🧑‍💻 About Me<br>🌍 Currently based in Florence, Italy<br>👨‍🎓 Pursuing an MS in Computer Science at the University of Florence<br>💼 Former Software Engineer at Sibisoft (Pvt.) Ltd, where I developed Northstar Club Management Software<br>📊 Passionate about Software Development, Data Science, Artificial Intelligence, and Natural Language Processing<br>🔍 Seeking opportunities to learn and collaborate in an Agile, growth-focused environment</p>
+---
 
-###
+### 📖 Coursework Highlights
+- **Graduate Courses:**
+  - Data Structures & Algorithms Analysis
+  - Artificial Intelligence
+  - Data Mining
+  - Computational Biology/Bioinformatics
+  - Security Penetration Testing
 
-<p align="left">🏆 Achievements & Certifications<br>AWS Certified Solutions Architect - Associate<br>View Certificate<br>Scrum Foundation Professional Certificate<br>Campus Director for Hult Prize (2020-2021)<br>Led MAJU’s chapter of the Hult Prize, promoting entrepreneurship and social innovation on campus</p>
+---
 
-###
+### 💡 Coding Interests
+I enjoy coding in **Java, Python,** and **JavaScript**, with a strong interest in solving complex problems related to **data science** and **AI/NLP**. I am always open to collaborating on meaningful projects and continuously expanding my technical skillset.
+
+---
+
+### 📫 How to Reach Me
+- **Email:** [arvind.maju17@gmail.com](mailto:arvind.maju17@gmail.com)
+- **LinkedIn:** [linkedin.com/in/arvind-kumar-407b93115](https://www.linkedin.com/in/arvind-kumar-407b93115)
+- **GitHub:** [github.com/arvind088](https://github.com/arvind088)
+
+Thank you for visiting my profile! Feel free to explore my repositories, and let’s connect if you’re interested in collaborating on projects or just discussing tech.
